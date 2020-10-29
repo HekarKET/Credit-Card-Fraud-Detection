@@ -17,6 +17,6 @@
 
 ![](Results/confusion_matrix.png)
 
-**Graphs of Loss, AUC, Precision, Recall:**
+**Graphs of Loss, AUC, Precision, Recall during Training:**
 
 ![](Results/graphs.png)
