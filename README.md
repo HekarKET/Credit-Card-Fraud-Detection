@@ -19,11 +19,6 @@ This proejct contains data analysis of famous Credit Card Fraud dataset. Proejct
 
 ![](Results/confusion_matrix.png)
 
-**Graphs of Loss, AUC, Precision, Recall during Training:**
-
-![](Results/graphs.png)
-
-
 ## Getting Started
 
 ### Dependencies
@@ -44,5 +39,7 @@ This proejct contains data analysis of famous Credit Card Fraud dataset. Proejct
 * Pip install pandas
 * Pip install numpy
 
+**Graphs of Loss, AUC, Precision, Recall during Training:**
 
+![](Results/graphs.png)
 
